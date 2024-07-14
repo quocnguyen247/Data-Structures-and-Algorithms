@@ -23,6 +23,3 @@ The time complexity of the `find_files` function is O(n), where n is the total n
     - Total Space = Input Space + Auxiliary Space
     - Total Space Complexity = O(depth * Average number of directories in each level + depth)
     - Simplified to O(depth * Average number of directories in each level)
-
-### Reference:
-- For further understanding of time and space complexity in file recursion, you can refer to this [Stack Overflow discussion](https://stackoverflow.com/questions/61255507/time-and-space-complexity-of-a-file-recursion-algorithm).
